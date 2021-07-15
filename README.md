@@ -13,4 +13,3 @@ The event names and the idea brief is as follows:
 
 5.HackRx Bajaj Fin Serv - Instant chat with doctors.
 
-6.Flipkart - Smart Bag Creator.
